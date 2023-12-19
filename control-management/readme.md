@@ -32,3 +32,5 @@ CREATE A STORYLINE, first to express everything in words
 FIND OUT WHAT YOU WANT TO CONTROL, SIGNAL VARIABLES. DUMMY 1-2 VALUE.
 When we have POC, we can use this for example in estimating volume yearly sales.
 We need to control all the variables for estimation.
+
+Need paper for management control system, to see what tangibles we can control.
