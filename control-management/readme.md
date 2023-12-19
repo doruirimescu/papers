@@ -9,3 +9,14 @@ Present challenges of software development organizations today. Scrum and Agile.
 2. Identify and briefly describe each block component, and its corresponding signal
 3. Identify each possible disturbance
 4. 
+
+We can turn it into management control system.
+The issue is: 
+- discrete control system. Not continuous input. Disturbance may not be traceable within each block
+- instead of doing multi input single output, we can have all in one box. Everything is like management control system.
+
+Master control system should be like management control system, to control the profit target. Controlling burndown and money. Inside, we have "functional control system". Instead of having one pipeline for the input. 
+
+Cascade control system
+Try to create a storyline: The investment starts with 100 million. The customer is requesting a product with this feature. Then, there are 10 developers doing. The product owner's function
+is like switching/multiplexing. Eventually we will know what to do first.
