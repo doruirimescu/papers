@@ -20,3 +20,15 @@ Master control system should be like management control system, to control the p
 Cascade control system
 Try to create a storyline: The investment starts with 100 million. The customer is requesting a product with this feature. Then, there are 10 developers doing. The product owner's function
 is like switching/multiplexing. Eventually we will know what to do first.
+
+Storyline with tangible signals to be controlled. Simple enough.
+Let's start with management for example:
+- Take management control system (executive): make the loop profit target, management, users
+
+- Between product owner and developers
+
+TODO:
+CREATE A STORYLINE, first to express everything in words
+FIND OUT WHAT YOU WANT TO CONTROL, SIGNAL VARIABLES. DUMMY 1-2 VALUE.
+When we have POC, we can use this for example in estimating volume yearly sales.
+We need to control all the variables for estimation.
