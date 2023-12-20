@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T17:27:03.650Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jn6jtcDUuzzEuuKr9KQ8" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T17:28:03.281Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gMnYM3PJbxP-lQo9w3Ar" version="22.1.11" type="github" pages="2">
   <diagram name="MAIN" id="kMi4MfaVG8bFLmQlTl4C">
-    <mxGraphModel dx="1650" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="jFcU7FumkJ6Ztm3b8WU0-4" value="Operations" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="240" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jFcU7FumkJ6Ztm3b8WU0-20" value="&lt;b&gt;USER &lt;br&gt;FUNCTIONALITY&lt;br&gt;REQUIREMENTS&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="jFcU7FumkJ6Ztm3b8WU0-7" target="jFcU7FumkJ6Ztm3b8WU0-21" edge="1">
+        <mxCell id="jFcU7FumkJ6Ztm3b8WU0-20" value="&lt;b&gt;New functionality&lt;br&gt;requirements&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="jFcU7FumkJ6Ztm3b8WU0-7" target="jFcU7FumkJ6Ztm3b8WU0-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="445.2413793103449" as="targetPoint" />
           </mxGeometry>
@@ -127,7 +127,7 @@
         <mxCell id="jFcU7FumkJ6Ztm3b8WU0-47" value="Profit target" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-530" y="240" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jFcU7FumkJ6Ztm3b8WU0-58" value="&lt;b&gt;CASH&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="jFcU7FumkJ6Ztm3b8WU0-53" target="jFcU7FumkJ6Ztm3b8WU0-1" edge="1">
+        <mxCell id="jFcU7FumkJ6Ztm3b8WU0-58" value="&lt;b&gt;CASH&lt;br&gt;deficit&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="jFcU7FumkJ6Ztm3b8WU0-53" target="jFcU7FumkJ6Ztm3b8WU0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFcU7FumkJ6Ztm3b8WU0-55" value="Taxations,&lt;br&gt;Operational costs,&lt;br&gt;Development costs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
