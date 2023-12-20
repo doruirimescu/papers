@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T17:18:12.100Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AA-SwMzvQ6jkpB9BWYY-" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T17:21:11.246Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kpFUH1jDdFhaNvdKtaRJ" version="22.1.11" type="github" pages="2">
   <diagram name="MAIN" id="kMi4MfaVG8bFLmQlTl4C">
     <mxGraphModel dx="2533" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
             <mxGeometry x="-600" y="1840" width="352.5" height="170" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="p2MS8P7nM7XAYz9IeHlb-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;In order for the management to calculate a minimum cost, they need to estimate the decision-making parameters: budget, valuation, and competing offers. &lt;br&gt;&lt;br&gt;The only way to establish a valuation for the given functionality is by comparing competing market alternatives for the same provided functionality. The more added functionality compared to the competing alternatives there is, the more room for increasing the cost there is.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p2MS8P7nM7XAYz9IeHlb-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;In order for the management to calculate a minimum cost, they need to estimate the decision-making parameters: budget, valuation, and competing offers. &lt;br&gt;&lt;br&gt;The only way to establish a valuation for the given functionality is by comparing competing market alternatives for the same provided functionality. The more added functionality compared to the competing alternatives there is, the more room for increasing the cost there is. &lt;br&gt;Thus, val = f(competing_offers, observed_functionality)&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-680" y="2100" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p2MS8P7nM7XAYz9IeHlb-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
